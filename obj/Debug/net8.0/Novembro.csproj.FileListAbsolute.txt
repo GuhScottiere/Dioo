@@ -1,0 +1,14 @@
+C:\Novembro\bin\Debug\net8.0\Novembro.exe
+C:\Novembro\bin\Debug\net8.0\Novembro.deps.json
+C:\Novembro\bin\Debug\net8.0\Novembro.runtimeconfig.json
+C:\Novembro\bin\Debug\net8.0\Novembro.dll
+C:\Novembro\bin\Debug\net8.0\Novembro.pdb
+C:\Novembro\obj\Debug\net8.0\Novembro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Novembro\obj\Debug\net8.0\Novembro.AssemblyInfoInputs.cache
+C:\Novembro\obj\Debug\net8.0\Novembro.AssemblyInfo.cs
+C:\Novembro\obj\Debug\net8.0\Novembro.csproj.CoreCompileInputs.cache
+C:\Novembro\obj\Debug\net8.0\Novembro.dll
+C:\Novembro\obj\Debug\net8.0\refint\Novembro.dll
+C:\Novembro\obj\Debug\net8.0\Novembro.pdb
+C:\Novembro\obj\Debug\net8.0\Novembro.genruntimeconfig.cache
+C:\Novembro\obj\Debug\net8.0\ref\Novembro.dll
